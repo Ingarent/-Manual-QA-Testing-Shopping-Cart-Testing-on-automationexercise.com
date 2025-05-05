@@ -1,0 +1,1 @@
+# -Manual-QA-Testing-Shopping-Cart-Testing-on-automationexercise.com
