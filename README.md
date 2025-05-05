@@ -1,1 +1,2 @@
 # -Manual-QA-Testing-Shopping-Cart-Testing-on-automationexercise.com
+Tested the "Add to Cart" feature, creating a comprehensive checklist and 18 test cases covering button behavior, item addition/removal, quantity adjustments, and cart persistence. Identified 4 bugs, including UI and performance issues, and documented them with severity classification. Utilized Chrome DevTools for testing and MS Word templates for reporting. This project highlights my skills in manual testing, test case creation, and bug reporting.
